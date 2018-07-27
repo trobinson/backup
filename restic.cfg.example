@@ -1,0 +1,2 @@
+RESTIC_REPOSITORY=b2:bucket:folder
+RESTIC_PASSWORD=repopassword123
